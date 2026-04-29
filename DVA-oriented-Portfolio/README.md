@@ -11,7 +11,7 @@
 | 2 | Kushagra Bhardwaj | 2401010247 | ETL Lead | [View Portfolio](https://kinshu15.github.io/kushagra-analytics/) |
 | 3 | Rishiwant Kumar Maurya | 2401020102 | Analysis Lead | [View Portfolio](#) |
 | 4 | Pranav Singh | 2401010333 | Visualization Lead | [View Portfolio](#) |
-| 5 | Samriddhi Shah | 2401010411 | Strategy Lead | [View Portfolio](#) |
+| 5 | Samriddhi Shah | 2401010411 | Strategy Lead | [View Portfolio](https://my-dva-canvas.lovable.app/) |
 | 6 | Drishti Jha | 2401010162 | PPT & Quality Lead | [View Portfolio](https://dva-portfolio-ivory.vercel.app/) |
 
 ---
