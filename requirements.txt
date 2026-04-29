@@ -1,0 +1,19 @@
+# Core data manipulation
+pandas==3.0.2
+numpy==2.4.4
+
+# Visualisation
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Statistical analysis
+scipy==1.17.1
+statsmodels==0.14.6
+
+# Machine learning (regression + clustering)
+scikit-learn==1.8.0
+
+# Notebook support
+nbformat==5.10.4
+ipykernel==6.29.5
+jupyter==1.1.1
