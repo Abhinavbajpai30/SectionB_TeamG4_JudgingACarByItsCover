@@ -11,7 +11,7 @@
 | 2 | Kushagra Bhardwaj | 2401010247 | ETL Lead | [View Resume](https://drive.google.com/file/d/1QYPL91XCXtREyNWMFNceVBC0noPAH1tE/view?usp=sharing) |
 | 3 | Rishiwant Kumar Maurya | 2401020102 | Analysis Lead | [View Resume](#) |
 | 4 | Pranav Singh | 2401010333 | Visualization Lead | [View Resume](#) |
-| 5 | Samriddhi Shah | 2401010411 | Strategy Lead | [View Resume](https://drive.google.com/drive/folders/1ZCVqC_gy5BbmF8IeVn03_d5Y3rWItTMJ?usp=drive_link) |
+| 5 | Samriddhi Shah | 2401010411 | Strategy Lead | [View Resume](https://drive.google.com/file/d/1QNBzKElOf1ch4VZoHBuxFapCumBsNqbv/view?usp=sharing) |
 | 6 | Drishti Jha | 2401010162 | PPT & Quality Lead | [View Resume](#) |
 
 ---
