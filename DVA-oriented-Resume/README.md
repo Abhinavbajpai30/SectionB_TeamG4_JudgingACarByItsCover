@@ -7,7 +7,7 @@
 
 | # | Name | Enrolment No. | Role | Resume |
 |---|------|---------------|------|--------|
-| 1 | Abhinav Bajpai | 2401010017 | Project Lead | [View Resume](#) |
+| 1 | Abhinav Bajpai | 2401010017 | Project Lead | [View Resume](https://drive.google.com/file/d/1aUckt02vhwrBNF_8IylN4DPEsPT0ubTk/view?usp=sharing) |
 | 2 | Kushagra Bhardwaj | 2401010247 | ETL Lead | [View Resume](#) |
 | 3 | Rishiwant Kumar Maurya | 2401020102 | Analysis Lead | [View Resume](#) |
 | 4 | Pranav Singh | 2401010333 | Visualization Lead | [View Resume](#) |
