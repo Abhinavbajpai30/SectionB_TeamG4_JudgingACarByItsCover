@@ -12,7 +12,7 @@
 | 3 | Rishiwant Kumar Maurya | 2401020102 | Analysis Lead | [View Portfolio](#) |
 | 4 | Pranav Singh | 2401010333 | Visualization Lead | [View Portfolio](#) |
 | 5 | Samriddhi Shah | 2401010411 | Strategy Lead | [View Portfolio](#) |
-| 6 | Drishti Jha | 2401010162 | PPT & Quality Lead | [View Portfolio](#) |
+| 6 | Drishti Jha | 2401010162 | PPT & Quality Lead | [View Portfolio](https://dva-portfolio-ivory.vercel.app/) |
 
 ---
 
