@@ -1,14 +1,14 @@
 # Judging a Car by its Cover
 ### A Data-Driven Pricing Intelligence System for the Used Vehicle Market
 
-**DVA Capstone 2 | Group 4, Section B |**
+**DVA Capstone 2 | Group 4, Section B | Newton School of Technology**
 **Faculty Mentor: Satyaki Das | Submitted: 29 April 2026**
 
 ---
 
 Every day, dealers walk into wholesale auctions and place bids on instinct. They lose margin on overpriced vehicles, miss opportunities on undervalued ones, and repeat the cycle the next week. This project asks a simple question: what if the data could tell you exactly what a car is worth before you bid?
 
-We took 548,486 real wholesale auction transactions from the Manheim dataset, ran them through a full Python ETL pipeline, and turned raw auction records into a structured pricing intelligence system — complete with a 94% accurate regression model, formal statistical validation, and three Tableau dashboards built for the auction floor.
+We took 548,486 real wholesale auction transactions from the Manheim dataset, ran them through a full Python ETL pipeline, and turned raw auction records into a structured pricing intelligence system — with formal statistical validation and three Tableau dashboards built for the auction floor.
 
 ---
 
@@ -26,7 +26,6 @@ Five recommendations follow from these findings, with a combined estimated annua
 |------|--------|
 | Dataset | Manheim Used Vehicle Sales, 2014-2015 (Kaggle) |
 | Clean dataset | 548,486 transactions, 29 columns |
-| Model accuracy | R-squared = 0.94 |
 | Dashboards | 3 Tableau dashboards (Executive, Operational, Market Intelligence) |
 | Estimated annual impact | ~$914,000 per dealer group |
 
@@ -50,7 +49,7 @@ DVACapstone2/
 
 ## Tech Stack
 
-Python, pandas, NumPy, SciPy, scikit-learn, Matplotlib, Seaborn, Tableau Public, ReportLab, Git.
+Python, pandas, NumPy, SciPy, Matplotlib, Seaborn, Tableau Public, ReportLab, Git.
 
 ---
 
